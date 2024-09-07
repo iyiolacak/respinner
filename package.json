@@ -34,13 +34,11 @@
   ],
   "author": "huozhi",
   "license": "MIT",
-  "homepage": "https://github.com/huozhi/respinner#readme",
   "devDependencies": {
     "bunchee": "^4.4.1",
     "next": "14.0.5-canary.58",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "respinner": "file:./"
+    "react-dom": "^18.2.0"
   },
   "peerDependencies": {
     "react": "*"
